@@ -1,0 +1,30 @@
+[
+    {
+        "name": "BreakFast",
+        "image": "https://media.istockphoto.com/id/881699820/vector/pancakes-on-plate.jpg?s=612x612&w=0&k=20&c=9pGBM9QbB5alAUmgFDpcabmh1Bzz9DouJdnfMzBV0xE="
+    },
+    {
+        "name": "Lunch",
+        "image": "https://img.freepik.com/premium-vector/lunch-paper-bag-with-juice-illustration_257455-1326.jpg?w=2000"
+    },
+    {
+        "name": "Chicken",
+        "image":"https://img.freepik.com/premium-vector/hand-drawn-icon-roast-turkey-grilled-chicken-doodle-style-isolated-white-background_293114-461.jpg?w=2000"
+    },
+    {
+        "name": "Pizza",
+        "image": "https://img.freepik.com/premium-vector/pizza-with-mushrooms-tomato-paste-cheese-tomato-corn-cheese-olives-slice-pizza-white-background-drawing_113045-411.jpg?w=2000"
+    },
+    {
+        "name": "Local",
+        "image": "https://media.istockphoto.com/id/652740802/vector/nigeria.jpg?b=1&s=612x612&w=0&k=20&c=gkncfuvKH8uQkrYWw8ZwKF3olySJcVyy3D1kyBluw2o="
+    },
+    {
+        "name": "Dessert",
+        "image": "https://icons.veryicon.com/png/o/cartoon/christmas-icon/dessert-2.png"
+    },
+    {
+        "name": "Drink",
+        "image": "https://freesvg.org/img/Gerald_G_Fast_Food_Drinks_(FF_Menu)_5.png"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "firstName": "Collins",
+        "lastName": "Michael",
+        "email": "worklikecollins@gmail.com",
+        "image": "https://media.istockphoto.com/id/1309328823/photo/headshot-portrait-of-smiling-male-employee-in-office.jpg?b=1&s=170667a&w=0&k=20&c=MRMqc79PuLmQfxJ99fTfGqHL07EDHqHLWg0Tb4rPXQc=",
+        "address": "24, Crescent Road, Off Road Industries"
+    },
+    {
+        "firstName": "Saweetie",
+        "lastName": "Blend",
+        "email": "saweetie@gmail.com",
+        "image": "https://media.istockphoto.com/id/1386479313/photo/happy-millennial-afro-american-business-woman-posing-isolated-on-white.jpg?b=1&s=170667a&w=0&k=20&c=ahypUC_KTc95VOsBkzLFZiCQ0VJwewfrSV43BOrLETM=",
+        "address": "34, Crescent Road, Off Road Industries"
+    },
+    {
+        "firstName": "Bruno",
+        "lastName": "Barks",
+        "email": "david@gmail.com",
+        "image": "https://cdn.pixabay.com/photo/2016/03/27/16/54/face-1283106__340.jpg",
+        "address": "61, Crescent Road, Off Road Industries"
+    },
+    {
+        "firstName": "Olufemi",
+        "lastName": "Tope",
+        "email": "stepper@gmail.com",
+        "image": "https://wallpaperaccess.com/full/2213424.jpg",
+        "address": "KM 46, Crescent Road, Off Road Industries"
+    }
+]
